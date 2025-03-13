@@ -1,0 +1,39 @@
+
+1 0 obj
+<< /Type /Page /Parent 2 0 R /Resources 4 0 R /Contents 3 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [1 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<< /Length 44 >>
+stream
+/F1 24 Tf
+100 700 Td
+(Hello, World!) Tj
+ET
+endstream
+endobj
+
+4 0 obj
+<< /Font << /F1 5 0 R >> >>
+endobj
+
+5 0 obj/Subtype / /BaseFont /Helvetica 
+end
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000079 00000 n 
+0000001998 00000 n 
+0000000277 00000 n 
+0000000328 00000 n 
+trailer
+<< /Size 6 /Root 2 0 R >>
+startxref
+377
+%%EO
