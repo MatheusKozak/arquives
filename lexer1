@@ -2,3 +2,4 @@
 true
 ( \neg 3a )
 ( \wedge 1x true )
+) \\wedge 1x true (
