@@ -1,0 +1,6 @@
+5
+( \neg true
+( \wedge true )
+( \vee true ( \neg false ) )
+( \wedge true false )
+banana
