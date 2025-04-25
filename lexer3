@@ -1,0 +1,7 @@
+6
+( \not 0a )                  # operador inválido: \not
+( \and true false )          # operador inválido: \and
+( \wedge 01c true )          # válido
+( \leftrightarrow true true) # válido
+( \neg )                     # falta o operando
+( \wedge true )              # faltando segundo operando
